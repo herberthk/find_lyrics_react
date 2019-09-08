@@ -1,4 +1,4 @@
-# LyricFinder App || Refactored using React Hooks
+# find lyrics || Refactored using React Hooks
 
 > App that finds song lyrics using React and the Musixmatch API.
 
@@ -25,8 +25,8 @@ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Herbert
+[Netgild](https://www.netgild.com or https://herbert.netgild.com)
 
 ### Version
 
